@@ -3,3 +3,10 @@ Motivated to learn the ecosystem of data science; Explored the art of data visua
 
 
 <img width="1499" height="787" alt="Job Opportunities and Upper Salary" src="https://github.com/user-attachments/assets/a6343721-3e72-415b-8c24-c974bb21f552" />
+
+
+
+
+
+<img width="1499" height="769" alt="Job Opportunities in Industry Sectors" src="https://github.com/user-attachments/assets/90544f92-0294-41a4-acc1-d534dd58d07d" />
+
